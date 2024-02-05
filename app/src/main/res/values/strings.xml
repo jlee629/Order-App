@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JUNGYULEE_COMP304Sec001_Lab01_Ex01</string>
+
+    <string name="customer_details">Customer Details</string>
+    <string name="type_full_name">Type full name</string>
+    <string name="type_email">Type email</string>
+    <string name="type_address">Type address</string>
+    <string name="log_in">LOG IN</string>
+
+    <string name="order_details">Order Details</string>
+    <string name="type_product_name">Type product name</string>
+    <string name="type_price_per_unit">Type price per unit, > 0</string>
+    <string name="type_quantity">Type quantity min-1, max-10</string>
+    <string name="calculate">CALCULATE</string>
+
+
+</resources>
